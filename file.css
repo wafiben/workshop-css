@@ -1,0 +1,40 @@
+*{
+    margin:0
+
+}
+
+header{
+    background-color: gray;
+    color:	 #ffffff;
+    margin-bottom:10px;
+    padding:5px
+}
+
+.box-informations{
+    background-color:#a2a8d3;
+    font-size: 25px;
+    width:300px;
+    margin:auto;
+    padding:7px;
+    border-radius: 5%;
+    font-family: 'Gill Sans MT'
+}
+ul{
+    list-style: none;
+}
+
+.input{
+    margin:5px
+}
+
+footer{
+  background-color: #38598b;
+  width: 600px;
+  padding:5px;
+  margin: auto;
+  color:white;
+  font-family: 'Gill Sans MT';
+  font-size: 25px;
+  margin-top:10px;
+  text-align: center;
+}
